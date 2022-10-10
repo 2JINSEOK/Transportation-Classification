@@ -1,0 +1,21 @@
+train dataset
+- bus (178)
+- light (265)
+- motorcycle(26)
+- sedan (4940)
+- suv (2670)
+- truck (977)
+- van (201)
+- unknown (129)
+total data: 9386
+
+test dataset
+- bus (17)
+- light (214)
+- motorcycle (4)
+- sedan (1934)
+- suv (1626)
+- truck (384)
+- van (232)
+- unknown (190)
+total data: 4601
